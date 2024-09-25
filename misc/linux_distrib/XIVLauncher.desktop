@@ -1,6 +1,6 @@
 [Desktop Entry]
 Name=XIVLauncherCN
-Comment=XIVLauncher 的跨平台版本，针对 Steam Deck 进行了优化。 附带一个 为最终幻想 14 调整过的 WINE.
+Comment=XIVLauncherCN 的跨平台版本，针对 Steam Deck 进行了优化。 附带一个 为最终幻想 14 调整过的 WINE.
 Exec=xivlauncher
 Icon=xivlauncher
 Terminal=false
